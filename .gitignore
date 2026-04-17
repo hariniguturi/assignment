@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+output/final_sales_parquet/
+output/final_sales_csv/
+.env
