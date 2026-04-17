@@ -89,7 +89,8 @@ Applied filters to remove invalid records
 
 * Sample output is available in:
 
-```output/sample_output.parquet
+```
+output/sample_output.parquet
 ```
 
 ## 🚀 Future Enhancements
